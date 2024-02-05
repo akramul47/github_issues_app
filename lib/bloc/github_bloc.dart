@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:bloc/bloc.dart';
 import 'package:github_issues_app/model/issue.dart';
-import 'package:github_issues_app/respository/github_repository.dart';
+import 'package:github_issues_app/repository/github_repository.dart';
 import 'github_event.dart';
 import 'github_state.dart';
 

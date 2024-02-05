@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:github_issues_app/bloc/github_bloc.dart'; // Correct import
-import 'package:github_issues_app/respository/github_repository.dart';
+import 'package:github_issues_app/bloc/github_bloc.dart';
+import 'package:github_issues_app/repository/github_repository.dart';
 import 'package:github_issues_app/ui/pages/home_page.dart';
 
 void main() {
